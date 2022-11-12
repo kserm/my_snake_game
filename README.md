@@ -1,7 +1,11 @@
-# Мой вариант популярной игры "змейка"
+# My version of the game "snake"
 
-перед запуском необходимо установить модуль pygame:
+
+
+please install pygame module:
 
 ```
 pip install pygame
 ```
+
+and launch final_project.py
